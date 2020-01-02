@@ -1,1 +1,1 @@
-Console.Log("This is better");
+Console.Log("This is better!");
